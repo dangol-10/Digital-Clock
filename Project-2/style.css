@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30rem;
+}
+.clock{
+    background-color: rgba(241, 13, 135, 0.913);
+    height: 40px;
+    width: 120px;
+    border-radius: 0.5rem;
+    text-align: center;
+    padding-top: 15px;
+}
